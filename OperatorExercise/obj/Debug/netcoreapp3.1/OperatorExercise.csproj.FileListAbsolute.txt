@@ -1,0 +1,13 @@
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csprojAssemblyReference.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.exe
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.deps.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.dev.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\Johanna\Desktop\Repo C#\myproject\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
